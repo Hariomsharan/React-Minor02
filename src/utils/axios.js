@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-    baseURL: 'https://calm-oasis-79532.herokuapp.com/'
+    baseURL: 'http://localhost:3050/'
 });
 
 export default instance;

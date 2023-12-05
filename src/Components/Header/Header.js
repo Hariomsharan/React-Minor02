@@ -45,7 +45,7 @@ function Header(props) {
           <Link className={classes.linkstyle} to="/" >
 
             <span role="img" aria-label="spoon1"  aria-labelledby="jsx-a11y/accessible-emoji">🥄</span>
-            फीयुकFood
+            Recipe's
             <span role="img" aria-label="spoon2"  aria-labelledby="jsx-a11y/accessible-emoji">🍴</span>
 
           </Link>
